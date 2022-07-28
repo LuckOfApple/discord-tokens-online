@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.4.6"
+  },
+  "name": "discord-tokens-online",
+  "description": "Make a list of Discord tokens online 24/7 with custom statuses.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luck",
+  "license": "MIT"
+}
